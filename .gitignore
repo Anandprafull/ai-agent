@@ -176,3 +176,7 @@ dist
 
 # Finder (MacOS) folder config
 .DS_Store
+# baseai
+**/.baseai/
+# env file
+.env

@@ -9,6 +9,11 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@baseai/core": "^0.9.41",
+    "baseai": "^0.9.41",
     "dotenv": "^16.4.7"
+  },
+  "scripts": {
+    "baseai": "baseai"
   }
 }
